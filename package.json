@@ -1,0 +1,19 @@
+{
+  "name": "session",
+  "version": "1.0.0",
+  "description": "尝试使用cookie和session实登录功能",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "许源锐",
+  "license": "ISC",
+  "devDependencies": {
+    "art-template": "^3.1.0",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.1",
+    "express-session": "^1.15.6",
+    "jwt-simple": "^0.5.1"
+  }
+}
